@@ -1,3 +1,4 @@
 # git-dem
 this is my first git repository <br>
-Author:Snigdha
+Author:Snigdha Afrin
+
